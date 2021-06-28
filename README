@@ -1,0 +1,2 @@
+Hay un archivo txt con las canciones de tres playlists, algunas canciones estan repetidas.
+El codigo busca generar una nueva lista con los titulos sin repetir y el resultado (new playlist) se muestra en un nuevo archivo txt
